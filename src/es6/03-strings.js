@@ -15,4 +15,5 @@ let lorem2 = `Esta es una frase epica
 la continuacion de esa frase epica
 `;
 
-console.log({lorem,lorem2});
+console.log(lorem);
+console.log(lorem2);

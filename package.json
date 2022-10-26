@@ -14,5 +14,6 @@
     "learn"
   ],
   "author": "William Bahoque <wbahoque71@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }

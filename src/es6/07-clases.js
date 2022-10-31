@@ -69,6 +69,6 @@ class user {
     }
 }
 
-const beb = new user('David', 15);
+const beb = new user('David', 15); // se instacia el objeto pasandole los argumentos de nombre y edad para que los reciba el this.nombre y this.age
 console.log(beb.uAge);
 console.log(beb.uAge = 20);
